@@ -1,3 +1,3 @@
-# Personal-Website
+# conplays.xyz
 
-http://conplays.xyz
+My portifolio website!
